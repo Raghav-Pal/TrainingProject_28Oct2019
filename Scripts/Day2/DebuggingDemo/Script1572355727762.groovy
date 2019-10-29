@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Welcome Admin'))
 
 WebUI.verifyElementPresent(findTestObject('Page_OrangeHRM/a_Logout'), 3)
 
-WebUI.click(findTestObject('Page_OrangeHRM/a_Logout'))
+WebUI.click(findTestObject('Page_OrangeHRM/b_Leave'))
 
 WebUI.closeBrowser()
 
