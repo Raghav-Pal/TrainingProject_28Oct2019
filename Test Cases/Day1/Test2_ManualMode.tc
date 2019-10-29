@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test2_ManualMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c170bd27-1630-4843-8a03-85b14f506ff4</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>bc8720bd-003d-4ebc-ae27-9ad425af555e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
